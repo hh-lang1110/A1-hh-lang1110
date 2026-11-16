@@ -1,0 +1,8 @@
+# Compiled output
+build/
+*.class
+
+# OS / editor leftovers
+.DS_Store
+Thumbs.db
+*.log
